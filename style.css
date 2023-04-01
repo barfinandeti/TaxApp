@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.form-content{
+    align-content: space-around;
+    display: flexbox;
+    padding-left: 100px;
+}
+
+/* .row{
+    display: grid !important; 
+    align-content: space-around;
+    padding-left: 100px;
+} */
+
+.result-span{
+    display: block;
+}
